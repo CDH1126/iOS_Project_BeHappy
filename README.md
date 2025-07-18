@@ -1,3 +1,12 @@
+<img width="1309" height="1123" alt="image" src="https://github.com/user-attachments/assets/00604720-949b-44fd-b2bc-3b4391bb4f00" />
+
+## 프로젝트 소개
+- Swift와 Xcode를 사용하여 개발한 iOS 다기능 앱 프로젝트
+- BMI 계산기와 그림판 등 다양한 기능 포함
+- 탭바(Tab Bar) 기반 인터페이스로 기능 간 빠른 전환 제공
+- WebKit을 통해 앱 내 웹 페이지 열람 및 동영상 재생 지원
+---
+
 ## 🔍 프로젝트 목표
 ---
 - Swift 및 Xcode 사용을 통한 iOS 개발 역량 강화
