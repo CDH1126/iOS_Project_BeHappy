@@ -1,6 +1,6 @@
-<img width="1309" height="1123" alt="image" src="https://github.com/user-attachments/assets/00604720-949b-44fd-b2bc-3b4391bb4f00" />
-# iOS 다용도 앱
+# 😊 iOS BeHappy
 
+<img width="1309" height="1123" alt="image" src="https://github.com/user-attachments/assets/00604720-949b-44fd-b2bc-3b4391bb4f00" />
 ## 프로젝트 소개
 ---
 - Swift와 Xcode를 사용하여 개발한 iOS 다기능 앱 프로젝트
